@@ -35,6 +35,7 @@ Research experience
   * Comparison and analysis of GAN variants’ performance over different tasks.
 
 * Scalable Video Distribution System Based on Dynamic Coalition, 02/2021 – 11/2021
+  * Supervisor: Asst. Prof. Wei Wang, HUST.
   * Combined coalition formation game and K-means to form dynamic coalitions of user equipment (UEs) under one cellular network, the central UE of each coalition is responsible for relaying the real-time video from the base station.
   * The dissertation is revised and submitted to GLOBECOM 2022 as the first author.
 

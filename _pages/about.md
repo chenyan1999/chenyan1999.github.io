@@ -14,6 +14,6 @@ redirect_from:
 <br>
 * I was a CS undergraduate student at Huazhong University of Science and Technology (HUST). 
 <br>
-* My research interest is machine learning (ML), especially in computer vision (CV) and neural language processing (NLP). 
+* My research interest is machine learning (ML), especially in computer vision (CV) and natural language processing (NLP). 
 <br>
 * To learn more about me, you can have a view of my CV page [here](/cv), or download my resume here: [English version](/files/CV_Chenyan Liu.pdf).
