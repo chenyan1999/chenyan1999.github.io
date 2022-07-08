@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.S. in Computer Science, National University of Singapore (NUS), 2023 (expected)
-* B.S. in Computer Science,	Huazhong University of Science and Technology (HUST), 2021
+* B.S. in Computer Science, Huazhong University of Science and Technology (HUST), 2021
 
 <br>
 
@@ -48,7 +48,7 @@ Skills
 
 <br>
 
-Honors and awards
+Honours and awards
 ======
 
 | Name | Time |
@@ -64,4 +64,3 @@ Extracurricular activities
   * CCF Student Member, China National Computer Congress, 10/2018
     * Participated in academic conferences held by the China Computer Federation (CCF)
   
-
