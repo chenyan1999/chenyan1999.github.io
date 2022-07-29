@@ -23,7 +23,7 @@ Research experience
   * Extensive survey for code summarization models and solutions for the out-of-vocabulary problem.
   * Hands-on experience with pre-trained models like CodeBERT.
 
-* Automatic Stream Delineation Based on Geographic Image, 2022.04 – now
+* Automatic Stream Delineation of Geographic Image Based on Transformers, 2022.04 – now
   * Supervisor: Asst. Prof. Zhe Jiang, University of Florida.
   * Automatically generate geographic polylines for river delineation based on earth imagery.
   * Proposing a conditional RNN model by treating vertices of polylines as a sequence of coordinates.
