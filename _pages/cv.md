@@ -23,11 +23,11 @@ Research experience
   * Extensive survey for code summarization models and solutions for the out-of-vocabulary problem.
   * Hands-on experience with pre-trained models like CodeBERT.
 
-* Automatic Stream Delineation of Geographic Image Based on Transformers, 2022.04 – now
+* Automatic Stream Delineation of Geographic Image Based on Attention, 2022.04 – now
   * Supervisor: Asst. Prof. Zhe Jiang, University of Florida.
   * Automatically generate geographic polylines for river delineation based on earth imagery.
   * Proposing a conditional RNN model by treating vertices of polylines as a sequence of coordinates.
-  * Adopting NLP techniques including attention mechanism to improve model performance.
+  * Adopting attention mechanism to improve model performance.
 
 * Generative Adversarial Network, 2022.01 – 2022.05
   * Supervisor: Asst. Prof. Yun Lin, NUS.
@@ -36,8 +36,14 @@ Research experience
 
 * Scalable Video Distribution System Based on Dynamic Coalition, 2021.01 – 2021.12
   * Supervisor: Asst. Prof. Wei Wang, HUST.
-  * Combined coalition formation game and K-means to form dynamic coalitions of user equipment (UEs) under one cellular network, the central UE of each coalition is responsible for relaying the real-time video from the base station.
-  * The dissertation is revised and submitted to GLOBECOM 2022 as the first author.
+  * Proposed a dynamic coalition formation algorithm for device-to-device assisted real-time scalable video distribution under the cellular network.
+  * The dissertation is accepted by GLOBECOM 2022 as the first author.
+
+<br>
+
+Publication
+======
+* C. Liu, W. Wang, R. Dai, H. Nie and P. Xu, "A Real-Time Scalable Video Distribution Strategy Based on Dynamic Coalition and D2D Broadcast," 2022 IEEE Global Communications Conference (GLOBECOM), 2022.
 
 <br>
 
@@ -65,4 +71,3 @@ Extracurricular activities
 ======
   * CCF Student Member, China National Computer Congress, 2018.10
     * Participated in academic conferences held by the China Computer Federation (CCF)
-  
