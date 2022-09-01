@@ -19,25 +19,25 @@ Education
 Research experience
 ======
 * CodeVocal: A Knowledge-Driven Approach to Recovering Out-of-Vocabulary Tokens for Boosting Deep Code Comment Generation Models, 2022.05 – now
-  * Supervisor: Asst. Prof. Yun Lin, NUS.
+  * Supervisor: Assistant Professor Yun Lin, NUS.
   * Extensive survey for code summarization models and solutions for the out-of-vocabulary problem.
   * Hands-on experience with pre-trained models like CodeBERT.
 
 * Automatic Stream Delineation of Geographic Image Based on Attention, 2022.04 – now
-  * Supervisor: Asst. Prof. Zhe Jiang, University of Florida.
+  * Supervisor: Assistant Professor Zhe Jiang, University of Florida.
   * Automatically generate geographic polylines for river delineation based on earth imagery.
   * Proposing a conditional RNN model by treating vertices of polylines as a sequence of coordinates.
   * Adopting attention mechanism to improve model performance.
 
 * Generative Adversarial Network, 2022.01 – 2022.05
-  * Supervisor: Asst. Prof. Yun Lin, NUS.
+  * Supervisor: Assistant Professor Yun Lin, NUS.
   * Extensive survey and implementation for GAN variants.
   * Comparison and analysis of GAN variants’ performance over different tasks.
 
-* Scalable Video Distribution System Based on Dynamic Coalition, 2021.01 – 2021.12
-  * Supervisor: Asst. Prof. Wei Wang, HUST.
+* A Real-Time Scalable Video Distribution Strategy Based on Dynamic Coalition and D2D Broadcast, 2021.01 – 2021.12
+  * Supervisor: Associate Professor Wei Wang, HUST.
   * Proposed a dynamic coalition formation algorithm for device-to-device assisted real-time scalable video distribution under the cellular network.
-  * The dissertation is accepted by GLOBECOM 2022 as the first author.
+  * This paper has been accepted by GLOBECOM 2022 as the first author.
 
 <br>
 
