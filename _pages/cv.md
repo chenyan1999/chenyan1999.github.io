@@ -37,7 +37,6 @@ Research experience
 * A Real-Time Scalable Video Distribution Strategy Based on Dynamic Coalition and D2D Broadcast, 2021.01 – 2021.12
   * Supervisor: Associate Professor Wei Wang, HUST.
   * Proposed a dynamic coalition formation algorithm for device-to-device assisted real-time scalable video distribution under the cellular network.
-  * This paper has been accepted by GLOBECOM 2022 as the first author.
 
 <br>
 
