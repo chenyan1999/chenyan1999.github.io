@@ -21,7 +21,7 @@ Research experience
 * A Graph-Based and Knowledge-Fusion Driven Approach for Code Summarization, 2022.05 – now
   * Supervisor: Assistant Professor Yun Lin, NUS.
   * Extensive survey for code summarization models and solutions for the out-of-vocabulary problem.
-  * Hands-on experience of several baseline models training and analysis.
+  * Hands-on experience of several baseline models' training and analysis.
 
 * Automatic Stream Delineation of Geographic Image Based on Attention, 2022.04 – now
   * Supervisor: Assistant Professor Zhe Jiang, University of Florida.
