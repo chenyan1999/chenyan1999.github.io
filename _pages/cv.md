@@ -18,10 +18,10 @@ Education
 
 Research experience
 ======
-* CodeVocal: A Knowledge-Driven Approach to Recovering Out-of-Vocabulary Tokens for Boosting Deep Code Comment Generation Models, 2022.05 – now
+* A Graph-Based and Knowledge-Fusion Driven Approach for Code Summarization, 2022.05 – now
   * Supervisor: Assistant Professor Yun Lin, NUS.
   * Extensive survey for code summarization models and solutions for the out-of-vocabulary problem.
-  * Hands-on experience with pre-trained models like CodeBERT.
+  * Hands-on experience of several baseline models training and analysis.
 
 * Automatic Stream Delineation of Geographic Image Based on Attention, 2022.04 – now
   * Supervisor: Assistant Professor Zhe Jiang, University of Florida.
