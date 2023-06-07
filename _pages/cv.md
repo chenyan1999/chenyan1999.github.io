@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Computer Science, National University of Singapore (NUS), 2023 (expected)
+* PhD student, National University of Singapore (NUS)
+* M.S. in Computer Science, National University of Singapore (NUS), 2023
 * B.S. in Computer Science, Huazhong University of Science and Technology (HUST), 2021
 
 <br>
