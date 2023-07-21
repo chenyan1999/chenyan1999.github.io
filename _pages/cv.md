@@ -24,16 +24,11 @@ Research experience
   * Extensive survey for code summarization models and solutions for the out-of-vocabulary problem.
   * Hands-on experience of several baseline models' training and analysis.
 
-* Automatic Stream Delineation of Geographic Image Based on Attention, 2022.04 – now
+* Automatic Stream Delineation of Geographic Image Based on Attention, 2022.04 – 2023.04
   * Supervisor: Assistant Professor Zhe Jiang, University of Florida.
   * Automatically generate geographic polylines for river delineation based on earth imagery.
   * Proposing a conditional RNN model by treating vertices of polylines as a sequence of coordinates.
   * Adopting attention mechanism to improve model performance.
-
-* Generative Adversarial Network, 2022.01 – 2022.05
-  * Supervisor: Assistant Professor Yun Lin, NUS.
-  * Extensive survey and implementation for GAN variants.
-  * Comparison and analysis of GAN variants’ performance over different tasks.
 
 * A Real-Time Scalable Video Distribution Strategy Based on Dynamic Coalition and D2D Broadcast, 2021.01 – 2021.12
   * Supervisor: Associate Professor Wei Wang, HUST.

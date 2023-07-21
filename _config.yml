@@ -86,8 +86,8 @@ author:
   location         : "Singapore"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "Chenyanliu712@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=RRnS4icAAAAJ&hl=zh-CN"
+  email            : "chenyan@u.nus.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
