@@ -8,8 +8,8 @@ venue: 'IEEE GLOBECOM 2022'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10001625&isnumber=10000593'
 citation: 'C. Liu, W. Wang, R. Dai, H. Nie and P. Xu, "A Real-Time Scalable Video Distribution Strategy Based on Dynamic Coalition and D2D Broadcast," GLOBECOM 2022 - 2022 IEEE Global Communications Conference, Rio de Janeiro, Brazil, 2022, pp. 19-24, doi: 10.1109/GLOBECOM48099.2022.10001625.'
 ---
-<!-- This paper is about the number 1. The number 2 is left for future work. -->
+This paper is about the number 1. The number 2 is left for future work.
 
-<!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf) -->
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-<!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
