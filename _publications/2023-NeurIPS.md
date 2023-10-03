@@ -1,0 +1,10 @@
+---
+title: "On-the-Fly Adapting Code Summarization on Trainable Cost-Effective Language Models"
+collection: publications
+permalink: /publication/2023-NeurIPS
+excerpt: 'Deep learning models are emerging to summarize source code to their comments, facilitating tasks of code documentation and program comprehension. Scaled-up large language models (e.g. GPT-4 and ChatGPT) have achieved good performance in such tasks. However, in practice, the subject code in a project can be specific, which may not align with the overall training corpus. In addition, retraining those large language models is very costly, even for some large companies. In this work, we explore a novel approach, AdaCom, to improve the performance of cost-effective comment generators by on-the-fly model adaptation. This research is motivated by our observation that deep comment generators, especially those with small scale, usually need to compromise their prediction on a part of the training samples. Specifically, given a piece of target code c, some training samples can be more contributive to generate the comment of c than the other samples. However, the comment generators can be under-trained on Sp because it needs to fit So from a global perspective. In this light, we design AdaCom to (1) detect whether the model might have a compromised summarization performance on a sample (i.e., source code) and (2) re-adapt the model on-the-fly by training the most contributing training samples to improve its performance for this sample. Our extensive experiments on 7 deep comment generators and 4 public datasets show that (1) AdaCom can significantly boost the performance of comment generation (BLEU4 score by on average 14.9%, METEOR by 12.2% and ROUGE-L by 7.4%), (2) the whole adaptation on an individual code sample takes very small runtime overhead (1.46 seconds for small-size models and 3.16 seconds for medium-size models), well acceptable as an on-the-fly solution, and (3) AdaCom can adapt well towards out-of-distribution code samples'
+date: 2023-12-10
+venue: 'NeurIPS'
+paperurl: ''
+citation: ''
+---

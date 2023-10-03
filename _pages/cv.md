@@ -19,8 +19,13 @@ Education
 
 Research experience
 ======
-* A Graph-Based and Knowledge-Fusion Driven Approach for Code Summarization, 2022.05 – now
-  * Supervisor: Assistant Professor Yun Lin, NUS.
+* On-the-Fly Adapting Code Summarization on Trainable Cost-Effective Language Models, 2022.08 - 2023.03
+  * Supervisor: Associate Professor Yun Lin, SJTU.
+  * Initial survey and implementation of retrieval methods;
+  * Carried out part of the experiments and the writing of related works.
+
+* A Graph-Based and Knowledge-Fusion Driven Approach for Code Summarization, 2022.05 – 2022.08
+  * Supervisor: Associate Professor Yun Lin, SJTU.
   * Extensive survey for code summarization models and solutions for the out-of-vocabulary problem.
   * Hands-on experience of several baseline models' training and analysis.
 
