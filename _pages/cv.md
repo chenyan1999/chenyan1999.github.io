@@ -43,6 +43,8 @@ Research experience
 
 Publication
 ======
+* Liu C, Cai Y, Lin Y, Huang Y, et al. "CoEdPilot: Recommending Code Edits with Learned Prior Edit Relevance, Project-wise Awareness, and Interactive Nature," The ACM SIGSOFT International Symposium on Software Testing and Analysis, 2024.
+* Cai Y, Lin Y, Liu C, Wu J, et al. "On-the-Fly Adapting Code Summarization on Trainable Cost-Effective Language Models," Thirty-seventh Conference on Neural Information Processing Systems, 2023.
 * C. Liu, W. Wang, R. Dai, H. Nie and P. Xu, "A Real-Time Scalable Video Distribution Strategy Based on Dynamic Coalition and D2D Broadcast," 2022 IEEE Global Communications Conference (GLOBECOM), 2022.
 
 <br>
