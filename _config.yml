@@ -21,7 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Chenyan Liu"
+  en_name          : "Chenyan Liu"
+  cn_name          : "(刘晨彦)"
   avatar           : "images/photo.jpg"
   bio              : ""
   location         : "Singapore"
@@ -51,7 +52,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "Chenyan_nus"
   vine             :
   weibo            :
   xing             :

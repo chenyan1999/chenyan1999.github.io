@@ -19,10 +19,9 @@ redirect_from:
 
 # 👋 About me
 * Hello, I’m Chenyan!
-* I am a fresh PhD student at the National University of Singapore (NUS), Singapore. Currently, I am focusing on research about code comment generation supervised by [Dr. LIN, Yun](http://linyun.info/) and [Dr. DONG, Jin Song](https://www.comp.nus.edu.sg/~dongjs/) in the [SELab](http://eng.software/). 
-* I received Master degree at NUS in 2023.
-* I was a CS undergraduate student at Huazhong University of Science and Technology (HUST). 
-* My research interest is machine learning (ML), especially in natural language processing (NLP) for software engineering. 
+* I am a fresh PhD student at the National University of Singapore (NUS), Singapore. 
+* I am supervised by [Dr. Yun LIN](http://linyun.info/), [Dr. Jin Song DONG](https://www.comp.nus.edu.sg/~dongjs/) and [Dr. ZhiYong HUANG](https://www.comp.nus.edu.sg/~huangzy/) in the [PLSE Lab](https://nus-plse.github.io/). 
+* My research interest is machine learning, specifically AI for software engineering.
 
 # 🔥 News
 - *2024.03*: &nbsp;🎉🎉 Our paper *CoEdPilot: Recommending Code Edits with Learned Prior Edit Relevance, Project-wise Awareness, and Interactive Nature* has been accepted by ISSTA'24.
