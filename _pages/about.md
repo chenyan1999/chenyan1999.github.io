@@ -42,6 +42,8 @@ redirect_from:
 <a href='https://sites.google.com/view/adacom23/home'>[Homepage]</a>
 <a href='https://proceedings.neurips.cc/paper_files/paper/2023/file/b16e6de5fbbdcb2df237aa66b302bc17-Paper-Conference.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a>
 
+- **Liu C**, Wang W, Dai R, et al. A Real-Time Scalable Video Distribution Strategy Based on Dynamic Coalition and D2D Broadcast[C]//GLOBECOM 2022-2022 IEEE Global Communications Conference. IEEE, 2022: 19-24.
+<a href='https://ieeexplore.ieee.org/document/10001625'><i class="fa fa-file-pdf"></i>[PDF]</a>
 
 # 📖 Educations
 - *2023.08 - Present*, Ph.D. in Computer Science, National University of Singapore (NUS).
