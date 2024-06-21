@@ -31,7 +31,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 -	**Liu C**, Cai Y, Lin Y, Huang Y, et al. CoEdPilot: Recommending Code Edits with Learned Prior Edit Relevance, Project-wise Awareness, and Interactive Nature[c]. The ACM SIGSOFT International Symposium on Software Testing and Analysis, 2024.
-<a href='https://sites.google.com/view/coedpilot/home'>[Homepage]</a>
+<a href='https://sites.google.com/view/coedpilot/home'><i class="fa fa-home"></i>[Homepage]</a>
 <a href='file/CoEdPilot.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a>
 <a href='https://github.com/code-philia/CoEdPilot'><i class="fab fa-github"></i>[GitHub]</a>
 
@@ -39,7 +39,7 @@ redirect_from:
 </div>
 
 -	Cai Y, Lin Y, **Liu C**, et al. On-the-Fly Adapting Code Summarization on Trainable Cost-Effective Language Models[J]. Advances in Neural Information Processing Systems, 2024, 36.
-<a href='https://sites.google.com/view/adacom23/home'>[Homepage]</a>
+<a href='https://sites.google.com/view/adacom23/home'><i class="fa fa-home"></i>[Homepage]</a>
 <a href='https://proceedings.neurips.cc/paper_files/paper/2023/file/b16e6de5fbbdcb2df237aa66b302bc17-Paper-Conference.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a>
 
 - **Liu C**, Wang W, Dai R, et al. A Real-Time Scalable Video Distribution Strategy Based on Dynamic Coalition and D2D Broadcast[C]//GLOBECOM 2022-2022 IEEE Global Communications Conference. IEEE, 2022: 19-24.
