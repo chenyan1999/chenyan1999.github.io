@@ -19,7 +19,7 @@ redirect_from:
 
 # 👋 About me
 * Hello, I’m Chenyan!
-* I am a fresh PhD student at the National University of Singapore (NUS), Singapore. 
+* I am a 2nd year PhD student at the National University of Singapore (NUS), Singapore. 
 * I am supervised by [Dr. Yun LIN](http://linyun.info/), [Dr. Jin Song DONG](https://www.comp.nus.edu.sg/~dongjs/) and [Dr. ZhiYong HUANG](https://www.comp.nus.edu.sg/~huangzy/) in the [PLSE Lab](https://nus-plse.github.io/). 
 * My research interest is machine learning, specifically AI for software engineering.
 
