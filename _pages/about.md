@@ -51,6 +51,7 @@ redirect_from:
 - *2017.09 - 2021.06*, B.S. in Computer Science, Huazhong University of Science and Technology (HUST).
 
 # 🎖 Honors and Awards
+- *2024.08* Research Achievement Award, NUS.
 - *2021.06* Outstanding Undergraduate Student, HUST.
 - *2018.11* Merit Student (top 5%), HUST.
 - *2018.03* Outstanding Entrants Scholarship, School of Computer Science and Technology, HUST.
