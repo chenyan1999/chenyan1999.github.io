@@ -58,6 +58,7 @@ redirect_from:
 
 # 👨‍🏫 Teaching
 - *2024 Spring*, Teaching Assistant, CS4248 Natural Language Processing, NUS.
+- *2024 Fall*, Teaching Assistant, CS5228 Knowledge Discovery and Data Mining, NUS.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
