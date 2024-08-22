@@ -27,10 +27,12 @@ redirect_from:
 - *2024.03*: &nbsp;🎉🎉 Our paper *CoEdPilot: Recommending Code Edits with Learned Prior Edit Relevance, Project-wise Awareness, and Interactive Nature* has been accepted by ISSTA'24.
 
 # 📝 Publications 
+-  Nie H, Wang W, Dai R, **Liu C**, et al. Multi-Hop D2D Cluster Formation and Resource Allocation for Scalable Video Multicast[C]//ISPA 2024-2024 IEEE International Symposium on Parallel and Distributed Processing with Applications. IEEE, 2024.
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISSTA'24</div><img src='images/ISSTA24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	**Liu C**, Cai Y, Lin Y, Huang Y, et al. CoEdPilot: Recommending Code Edits with Learned Prior Edit Relevance, Project-wise Awareness, and Interactive Nature[c]. The ACM SIGSOFT International Symposium on Software Testing and Analysis, 2024.
+-	**Liu C**, Cai Y, Lin Y, Huang Y, et al. CoEdPilot: Recommending Code Edits with Learned Prior Edit Relevance, Project-wise Awareness, and Interactive Nature[C]. The ACM SIGSOFT International Symposium on Software Testing and Analysis, 2024.
 <a href='https://sites.google.com/view/coedpilot/home'><i class="fa fa-home"></i>[Homepage]</a>
 <a href='file/CoEdPilot.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a>
 <a href='https://github.com/code-philia/CoEdPilot'><i class="fab fa-github"></i>[GitHub]</a>
