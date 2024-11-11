@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👋 About me
-* Hello, I’m Chenyan!
+* Hello, I'm Chenyan!
 * I am a 2nd year PhD student at the National University of Singapore (NUS), Singapore. 
 * I am supervised by [Dr. Yun LIN](http://linyun.info/), [Dr. Jin Song DONG](https://www.comp.nus.edu.sg/~dongjs/) and [Dr. ZhiYong HUANG](https://www.comp.nus.edu.sg/~huangzy/) in the [PLSE Lab](https://nus-plse.github.io/). 
 * My research interest is machine learning, specifically AI for software engineering.
@@ -63,6 +63,9 @@ SOFT International Symposium on Software Testing and Analysis. 2024: 466-478
 # 👨‍🏫 Teaching
 - *2024 Spring*, Teaching Assistant, CS4248 Natural Language Processing, NUS.
 - *2024 Fall*, Teaching Assistant, CS5228 Knowledge Discovery and Data Mining, NUS.
+
+<!-- # 🏷️ Patent
+-  -->
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

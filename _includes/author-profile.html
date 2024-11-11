@@ -9,7 +9,15 @@
   </div>
 
   <div class="author__content">
-    <h3 class="author__name">{{ author.en_name }}<br>{{ author.cn_name }}</h3>
+    <h3 class="author__name">
+      <span class="name-pronunciation" data-pronunciation="{{ author.pronunciation }}">
+        {{ author.en_name }}
+        <span class="pronunciation-popup">
+          {{ author.pronunciation }} <i class="fas fa-volume-up speaker-icon" onclick="speakName()"></i>
+        </span>
+      </span>
+      <br>{{ author.cn_name }}
+    </h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
