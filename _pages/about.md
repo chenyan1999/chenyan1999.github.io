@@ -55,6 +55,7 @@ SOFT International Symposium on Software Testing and Analysis. 2024: 466-478
 - *2017.09 - 2021.06*, B.S. in Computer Science, Huazhong University of Science and Technology (HUST).
 
 # 🎖 Honors and Awards
+- *2024.11* 3rd/74 in Prototype System Competition for Software Research Achievements, China Computer Federation (CCF).
 - *2024.08* Research Achievement Award, NUS. <a href='https://credentials.nus.edu.sg/e7862262-920f-46cc-a08e-a397d6b0addc'><i class="fa fa-trophy"></i></a>
 - *2021.06* Outstanding Undergraduate Student, HUST.
 - *2018.11* Merit Student (top 5%), HUST.
@@ -65,11 +66,7 @@ SOFT International Symposium on Software Testing and Analysis. 2024: 466-478
 - *2024 Fall*, Teaching Assistant, CS5228 Knowledge Discovery and Data Mining, NUS.
 
 <!-- # 🏷️ Patent
--  -->
+- 
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+# 💬 Invited Talks
+- *2024.12*, Workshop on LLM-based Code Agent, International Conference on Distributed Artificial Intelligence, Singapore. -->
