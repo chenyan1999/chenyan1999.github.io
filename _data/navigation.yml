@@ -15,11 +15,14 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Teaching"
-    url: "/#-teaching"
-    
-  # - title: "Invited Talks"
-  #   url: "/#-invited-talks"
-
   # - title: "Internships"
   #   url: "/#-internships"
+
+  - title: "Teaching"
+    url: "/#-teaching"
+
+  # - title: "Patent"
+  #   url: "/#-patent"
+
+  - title: "Invited Talks"
+    url: "/#-invited-talks"
