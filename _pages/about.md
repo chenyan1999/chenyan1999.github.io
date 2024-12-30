@@ -19,11 +19,12 @@ redirect_from:
 
 # 👋 About me
 * Hello, I'm Chenyan!
-* I am a 2nd year PhD student at the National University of Singapore (NUS), Singapore. 
+* I am a 2nd year PhD candidate at the National University of Singapore (NUS), Singapore. 
 * I am supervised by [Dr. Yun LIN](http://linyun.info/), [Dr. Jin Song DONG](https://www.comp.nus.edu.sg/~dongjs/) and [Dr. ZhiYong HUANG](https://www.comp.nus.edu.sg/~huangzy/) in the [PLSE Lab](https://nus-plse.github.io/). 
 * My research interest is machine learning, specifically AI for software engineering.
 
 # 🔥 News
+- *2024.12*: &nbsp; I passed the qualifying examination.
 - *2024.03*: &nbsp;🎉🎉 Our paper *CoEdPilot: Recommending Code Edits with Learned Prior Edit Relevance, Project-wise Awareness, and Interactive Nature* has been accepted by ISSTA'24.
 
 # 📝 Publications 
