@@ -66,8 +66,8 @@ SOFT International Symposium on Software Testing and Analysis. 2024: 466-478
 - *2018.03* Outstanding Entrants Scholarship, School of Computer Science and Technology, HUST.
 
 # 👨‍🏫 Teaching
-- *2024 Spring*, Teaching Assistant, CS4248 Natural Language Processing, NUS.
 - *2024 Fall*, Teaching Assistant, CS5228 Knowledge Discovery and Data Mining, NUS.
+- *2024 Spring*, Teaching Assistant, CS4248 Natural Language Processing, NUS.
 
 <!-- # 🏷️ Patent
 -  -->
