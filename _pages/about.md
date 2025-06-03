@@ -60,10 +60,8 @@ SOFT International Symposium on Software Testing and Analysis. 2024: 466-478
 
 # 🎖 Honors and Awards
 - *2024.11* 3rd/74 in Prototype System Competition for Software Research Achievements, China Computer Federation (CCF).
-- *2024.08* Research Achievement Award, NUS. <a href='https://credentials.nus.edu.sg/e7862262-920f-46cc-a08e-a397d6b0addc'><i class="fa fa-trophy"></i></a>
+- *2024.08* Research Achievement Award, NUS.
 - *2021.06* Outstanding Undergraduate Student, HUST.
-- *2018.11* Merit Student (top 5%), HUST.
-- *2018.03* Outstanding Entrants Scholarship, School of Computer Science and Technology, HUST.
 
 # 👨‍🏫 Teaching
 - *2024 Fall*, Teaching Assistant, CS5228 Knowledge Discovery and Data Mining, NUS.
