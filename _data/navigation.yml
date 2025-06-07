@@ -21,8 +21,8 @@ main:
   - title: "Teaching"
     url: "/#-teaching"
 
-  # - title: "Patent"
-  #   url: "/#-patent"
+  - title: "Patent"
+    url: "/#-patent"
 
   - title: "Invited Talks"
     url: "/#-invited-talks"

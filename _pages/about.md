@@ -67,8 +67,8 @@ SOFT International Symposium on Software Testing and Analysis. 2024: 466-478
 - *2024 Fall*, Teaching Assistant, CS5228 Knowledge Discovery and Data Mining, NUS.
 - *2024 Spring*, Teaching Assistant, CS4248 Natural Language Processing, NUS.
 
-<!-- # 🏷️ Patent
--  -->
+# 🏷️ Patent
+- *2024.05* Method, System, Apparatus, and Computer-Readable Storage Medium for Code Editing. China Invention Patent, Publication No. CN119088381A.
 
 # 💬 Invited Talks
 - *2024.12*, Workshop on LLM-based Code Agent, International Conference on Distributed Artificial Intelligence, Singapore.
