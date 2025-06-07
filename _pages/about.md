@@ -43,7 +43,7 @@ SOFT International Symposium on Software Testing and Analysis. 2024: 466-478
 </div>
 </div>
 
--	Cai Y, Lin Y, **Liu C**, et al. On-the-Fly Adapting Code Summarization on Trainable Cost-Effective Language Models[J]. Advances in Neural Information Processing Systems, 2024, 36.
+-	Cai Y, Lin Y, **Liu C**, et al. On-the-Fly Adapting Code Summarization on Trainable Cost-Effective Language Models[J]. Advances in Neural Information Processing Systems, 2023, 36.
 <a href='https://sites.google.com/view/adacom23/home'><i class="fa fa-home"></i>[Homepage]</a>
 <a href='https://proceedings.neurips.cc/paper_files/paper/2023/file/b16e6de5fbbdcb2df237aa66b302bc17-Paper-Conference.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a>
 
