@@ -31,6 +31,16 @@ redirect_from:
 # 📝 Publications 
 (<small><sup>#</sup> refers to equal contribution</small>)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASE'25</div><img src='images/ASE25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	**Liu C**, Lin Y, Huang Y, Chang J, et al. Learning Project-wise Subsequent Code Edits via Interleaving Neural-based Induction and Tool-based Deduction[C]
+<a href='https://sites.google.com/view/code-trace/homepage'><i class="fa fa-home"></i>[Homepage]</a>
+<!-- <a href='file/CoEdPilot.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a>
+<a href='https://github.com/code-philia/CoEdPilot'><i class="fab fa-github"></i>[GitHub]</a>  -->
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISSTA'24</div><img src='images/ISSTA24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
