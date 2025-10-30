@@ -19,8 +19,8 @@ redirect_from:
 
 # 👋 About me
 * Hello, I'm Chenyan!
-* I am a 2nd year PhD candidate at the National University of Singapore (NUS), Singapore. 
-* I am supervised by [Dr. Yun LIN](http://linyun.info/), [Dr. Jin Song DONG](https://www.comp.nus.edu.sg/~dongjs/) and [Dr. ZhiYong HUANG](https://www.comp.nus.edu.sg/~huangzy/) in the [PLSE Lab](https://nus-plse.github.io/). 
+* I am a 3rd year PhD candidate at the National University of Singapore (NUS), Singapore. 
+* I am supervised by [Dr. Yun LIN](http://linyun.info/), [Dr. ZhiYong HUANG](https://www.comp.nus.edu.sg/~huangzy/) and [Dr. Jin Song DONG](https://www.comp.nus.edu.sg/~dongjs/) in the [PLSE Lab](https://nus-plse.github.io/). 
 * My research interest is machine learning, specifically AI for software engineering.
 
 # 🔥 News
@@ -36,8 +36,8 @@ redirect_from:
 
 -	**Liu C**, Lin Y, Huang Y, Chang J, et al. Learning Project-wise Subsequent Code Edits via Interleaving Neural-based Induction and Tool-based Deduction[C]
 <a href='https://sites.google.com/view/code-trace/homepage'><i class="fa fa-home"></i>[Homepage]</a>
-<!-- <a href='file/CoEdPilot.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a>
-<a href='https://github.com/code-philia/CoEdPilot'><i class="fab fa-github"></i>[GitHub]</a>  -->
+<a href='file/TRACE.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a>
+<a href='https://github.com/code-philia/TRACE'><i class="fab fa-github"></i>[GitHub]</a> 
 
 </div>
 </div>
