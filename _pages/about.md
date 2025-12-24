@@ -72,6 +72,7 @@ SOFT International Symposium on Software Testing and Analysis. 2024: 466-478
 - *2025.01 - 2025.06*, ByteDance, Shenzhen, China. -->
 
 # 🎖 Honors and Awards
+- *2025.12* Research Achievement Award, NUS.
 - *2024.11* 3rd/74 in Prototype System Competition for Software Research Achievements, China Computer Federation (CCF).
 - *2024.08* Research Achievement Award, NUS.
 - *2021.06* Outstanding Undergraduate Student, HUST.
