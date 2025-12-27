@@ -82,6 +82,8 @@ SOFT International Symposium on Software Testing and Analysis. 2024: 466-478
 - *2024 Spring*, Teaching Assistant, CS4248 Natural Language Processing, NUS.
 
 # 🏷️ Patent
+- *2025.08* Method, System, Apparatus, and Computer-Readable Storage Medium for Constructing Code Editing Datasets. China Invention Patent, Publication No. CN121070316A
+- *2025.08* Method, System, Apparatus, and Computer-Readable Storage Medium for Determining Code Editing Recommendations. China Invention Patent, Publication No. CN121029146A.
 - *2024.05* Method, System, Apparatus, and Computer-Readable Storage Medium for Code Editing. China Invention Patent, Publication No. CN119088381A.
 
 # 💬 Invited Talks
