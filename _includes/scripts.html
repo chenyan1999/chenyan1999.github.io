@@ -2,12 +2,33 @@
 
 <script>
 function speakName() {
-  const enUtterance = new SpeechSynthesisUtterance("Chen Yan Leo");
-  
-  enUtterance.lang = 'en-US';
-  enUtterance.rate = 0.8;
-  
-  speechSynthesis.speak(enUtterance);
+  speechSynthesis.cancel();
+  const utterance = new SpeechSynthesisUtterance("Chen Yan Leou");
+  utterance.lang = 'en-US';
+  utterance.rate = 0.85;
+  utterance.pitch = 1.0;
+
+  const voices = speechSynthesis.getVoices();
+  // Prefer high-quality voices: Google > Microsoft Online > Siri/Samantha > default
+  const preferred = [
+    v => /Google US English/i.test(v.name),
+    v => /Google/i.test(v.name) && v.lang.startsWith('en'),
+    v => /Microsoft.*Online/i.test(v.name) && v.lang.startsWith('en'),
+    v => /Samantha|Karen|Daniel/i.test(v.name),
+    v => v.lang.startsWith('en-US') && !v.localService,
+    v => v.lang.startsWith('en') && !v.localService,
+  ];
+  for (const test of preferred) {
+    const match = voices.find(test);
+    if (match) { utterance.voice = match; break; }
+  }
+
+  speechSynthesis.speak(utterance);
+}
+
+// Preload voices (some browsers load them asynchronously)
+if (speechSynthesis.onvoiceschanged !== undefined) {
+  speechSynthesis.onvoiceschanged = function() {};
 }
 </script>
 
