@@ -37,8 +37,8 @@ redirect_from:
 
 -	**Liu C**, Lin Y<sup>*</sup>, Chang J, et al. EditFlow: Benchmarking and Optimizing Code Edit Recommendation Systems via Reconstruction of Developer Flows[C]
 <a href='https://sites.google.com/view/editflow'><i class="fa fa-home"></i>[Homepage]</a>
-<!-- <a href='file/EditFlow.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a>
-<a href='https://github.com/code-philia/TRACE'><i class="fab fa-github"></i>[GitHub]</a>  -->
+<a href='file/EditFlow.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a>
+<a href='https://github.com/code-philia/EditFlow'><i class="fab fa-github"></i>[GitHub]</a> 
 
 </div>
 </div>
