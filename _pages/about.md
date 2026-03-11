@@ -23,6 +23,10 @@ redirect_from:
 * I am supervised by [Dr. Yun LIN](http://linyun.info/), [Dr. ZhiYong HUANG](https://www.comp.nus.edu.sg/~huangzy/) and [Dr. Jin Song DONG](https://www.comp.nus.edu.sg/~dongjs/) in the [PLSE Lab](https://nus-plse.github.io/). 
 * My research interest is machine learning, specifically AI for software engineering.
 
+<div style="background-color: #f0f7ff; border: 1.5px solid #4a90d9; border-radius: 8px; padding: 10px 16px; margin: 12px 0;">
+  🔍 I am looking for <strong>internship opportunities</strong> in AI for coding starting from <strong>early 2027</strong> (outside mainland China). Feel free to <a href="mailto:chenyan@u.nus.edu">reach out</a>!
+</div>
+
 # 🔥 News
 - *2026.02*: &nbsp; 🎉🎉 Our paper *EditFlow: Benchmarking and Optimizing Code Edit Recommendation Systems via Reconstruction of Developer Flows* has been accepted by OOPSLA'26.
 - *2025.09*: &nbsp; 🎉🎉 Our paper *Learning Project-wise Subsequent Code Edits via Interleaving Neural-based Induction and Tool-based Deduction* has been accepted by ASE'25.
@@ -80,8 +84,8 @@ SOFT International Symposium on Software Testing and Analysis. 2024: 466-478
 - *2021.08 - 2023.03*, M.S. in Computer Science, National University of Singapore (NUS).
 - *2017.09 - 2021.06*, B.S. in Computer Science, Huazhong University of Science and Technology (HUST).
 
-<!-- # 👨‍💻 Internships
-- *2025.01 - 2025.06*, ByteDance, Shenzhen, China. -->
+# 👨‍💻 Internships
+- *2025.01 - 2025.08*, Trae, ByteDance, Shenzhen, China.
 
 # 🎖 Honors and Awards
 - *2025.12* Research Achievement Award, NUS.
