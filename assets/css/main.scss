@@ -107,3 +107,140 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* ==========================================================================
+   THEME TOGGLE BUTTON
+   Button lives outside #site-nav to avoid .greedy-nav button styles
+   ========================================================================== */
+
+.masthead__menu {
+  position: relative;
+}
+
+// Shrink the nav to leave room for the toggle button on the right
+.greedy-nav {
+  margin-right: 2.5rem;
+}
+
+#theme-toggle {
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 1.1em;
+  padding: 0.3em 0.4em;
+  color: $masthead-link-color;
+  line-height: 1;
+  outline: none;
+  opacity: 0.8;
+  z-index: 25;
+
+  &:hover { opacity: 1; }
+}
+
+/* ==========================================================================
+   DARK MODE
+   JS (in head.html) always sets data-theme="dark"|"light" based on
+   localStorage preference or system setting — CSS just responds to it.
+   ========================================================================== */
+
+html[data-theme="dark"] {
+  body {
+    background-color: #1e1e1e;
+    color: #d0d0d0;
+  }
+
+  a {
+    color: #7ab4f5;
+    &:visited { color: #b39ddb; }
+  }
+
+  .masthead {
+    background-color: #2a2a2a;
+    border-bottom-color: #3e3e3e;
+    a { color: #d0d0d0; }
+  }
+
+  #theme-toggle { color: #d0d0d0; }
+
+  .sidebar {
+    .author__name { color: #e0e0e0; }
+    .author__bio { color: #b0b0b0; }
+    a { color: #7ab4f5; }
+  }
+
+  .author__urls {
+    li { color: #c0c0c0; }
+    li a { color: #7ab4f5; }
+    border-color: #3e3e3e;
+    // Popup background on small screens; transparent on large (sidebar)
+    background: #2a2a2a;
+    @include breakpoint($large) { background: transparent; }
+  }
+  .author__urls_sm a { color: #c0c0c0; }
+
+  .social-icons .fa,
+  .social-icons .fas,
+  .social-icons .fab,
+  .social-icons .far,
+  .social-icons .fal,
+  .social-icons .ai {
+    color: #7ab4f5 !important;
+  }
+
+  .internship-notice {
+    background-color: #0d2137 !important;
+    border-color: #4a90d9 !important;
+    color: #d0d0d0;
+    a { color: #7ab4f5; }
+    strong { color: #e0e0e0; }
+  }
+
+  .page__content {
+    color: #d0d0d0;
+    h1, h2, h3, h4, h5, h6 { color: #e8e8e8; }
+    a { color: #7ab4f5; }
+    p > code, a > code, li > code, figcaption > code, td > code {
+      background: #2a2a2a;
+      border-color: #3e3e3e;
+      color: #ce9178;
+    }
+    pre { background: #2a2a2a; border-color: #3e3e3e; }
+    hr { border-top-color: #3e3e3e; }
+    blockquote { color: #a0a0a0; border-left-color: #555; }
+    table {
+      th { background-color: #2a2a2a; color: #e0e0e0; }
+      td { border-color: #3e3e3e; }
+      tr:nth-child(even) { background-color: #252525; }
+    }
+  }
+
+  .paper-box {
+    border-bottom-color: #3e3e3e;
+    .paper-box-image img { box-shadow: 3px 3px 6px #111; }
+  }
+
+  .page__footer {
+    background-color: #252525;
+    border-top-color: #3e3e3e;
+    color: #888;
+    a { color: #888; }
+    .fas, .fab, .far, .fal { color: #888; }
+  }
+
+  .greedy-nav {
+    background: #2a2a2a;
+    a { color: #d0d0d0; }
+    .visible-links a { color: #d0d0d0; }
+    button { color: #d0d0d0; background: #2a2a2a; }
+  }
+
+  .notice { background-color: #2a2a2a; }
+  .notice--info { background-color: #1a2a3a; }
+  .notice--warning { background-color: #2a2010; }
+  .notice--success { background-color: #0a2a1a; }
+  .notice--danger { background-color: #2a1010; }
+}

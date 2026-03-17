@@ -23,7 +23,7 @@ redirect_from:
 * I am supervised by [Dr. Yun LIN](http://linyun.info/), [Dr. ZhiYong HUANG](https://www.comp.nus.edu.sg/~huangzy/) and [Dr. Jin Song DONG](https://www.comp.nus.edu.sg/~dongjs/) in the [PLSE Lab](https://nus-plse.github.io/). 
 * My research interest is machine learning, specifically AI for software engineering.
 
-<div style="background-color: #f0f7ff; border: 1.5px solid #4a90d9; border-radius: 8px; padding: 10px 16px; margin: 12px 0;">
+<div class="internship-notice" style="background-color: #f0f7ff; border: 1.5px solid #4a90d9; border-radius: 8px; padding: 10px 16px; margin: 12px 0;">
   🔍 I am looking for <strong>internship opportunities</strong> in AI for coding starting from <strong>early 2027</strong> (outside mainland China). Feel free to <a href="mailto:chenyan@u.nus.edu">reach out</a>!
 </div>
 

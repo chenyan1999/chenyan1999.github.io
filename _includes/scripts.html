@@ -32,5 +32,41 @@ if (speechSynthesis.onvoiceschanged !== undefined) {
 }
 </script>
 
+<script>
+(function() {
+  var btn = document.getElementById('theme-toggle');
+  if (!btn) return;
+
+  function getEffectiveTheme() {
+    var saved = sessionStorage.getItem('theme');
+    if (saved) return saved;
+    return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+  }
+
+  function updateIcon(theme) {
+    btn.innerHTML = theme === 'dark'
+      ? '<i class="fas fa-sun"></i>'
+      : '<i class="fas fa-moon"></i>';
+  }
+
+  // Set initial icon
+  updateIcon(getEffectiveTheme());
+
+  btn.addEventListener('click', function() {
+    var next = getEffectiveTheme() === 'dark' ? 'light' : 'dark';
+    document.documentElement.setAttribute('data-theme', next);
+    sessionStorage.setItem('theme', next);
+    updateIcon(next);
+  });
+
+  // Update icon if system preference changes and user hasn't manually chosen
+  window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function(e) {
+    if (!sessionStorage.getItem('theme')) {
+      updateIcon(e.matches ? 'dark' : 'light');
+    }
+  });
+})();
+</script>
+
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
