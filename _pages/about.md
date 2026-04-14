@@ -66,7 +66,7 @@ redirect_from:
 -	**Liu C**<sup>#</sup>, Cai Y<sup>#</sup>, Lin Y<sup>*</sup>, Huang Y, et al. CoEdPilot: Recommending Code Edits with Learned Prior Edit Relevance, Project-wise Awareness, and Interactive Nature[C]//Proceedings of the 33rd ACM SIG-
 SOFT International Symposium on Software Testing and Analysis. 2024: 466-478
 <a href='https://sites.google.com/view/coedpilot/home'><i class="fa fa-home"></i>[Homepage]</a>
-<a href='file/CoEdPilot.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a>
+<a href='https://arxiv.org/pdf/2408.01733'><i class="fa fa-file-pdf"></i>[PDF]</a>
 <a href='https://github.com/code-philia/CoEdPilot'><i class="fab fa-github"></i>[GitHub]</a>
 
 </div>
