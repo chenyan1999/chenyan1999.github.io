@@ -42,6 +42,7 @@ html[data-theme="dark"] #pub-switch span { color:#aaa; }
 html[data-theme="dark"] #pub-switch span.pub-active { background:#555; color:#eee; box-shadow:0 1px 3px rgba(0,0,0,0.4); }
 </style>
 
+<span class='anchor' id='-publications'></span>
 <div style="display:flex; align-items:center; justify-content:space-between; margin-top:1em;">
   <h1 style="margin:0;">📝 Publications</h1>
   <div id="pub-switch">
