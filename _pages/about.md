@@ -36,6 +36,10 @@ redirect_from:
 # 📝 Publications 
 (<small><sup>#</sup> refers to equal contribution, <sup>*</sup> refers to corresponding author</small>)
 
+- Liu J, Lin Y, **Liu C**, Qi Y, Liu Y, Chang J, Zhang W, Huang L. IssueExec: A Test-Driven Approach for Localizing Software Engineering Issues[C]//Proceedings of the 2026 ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA). ACM, 2026.
+
+- Qi B, Lin Y, Weng X, Huang Y, **Liu C**, Sun H, Jin Z, Dong J S. Generating Project-Specific Test Cases with Requirement Validation Intention[C]//Proceedings of the 2026 ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA). ACM, 2026.
+
 - Qi B, Lin Y, Weng X, **Liu C**, Sun H, Fraser G, Dong J S. Generalizing Test Cases for Comprehensive Test Scenario Coverage[C]//FSE 2026-2026 ACM International Conference on the Foundations of Software Engineering. ACM, 2026.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">OOPSLA'26</div><img src='images/OOPSLA26.png' alt="sym" width="100%"></div></div>
