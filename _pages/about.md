@@ -83,12 +83,6 @@ html[data-theme="dark"] #pub-switch span.pub-active { background:#555; color:#ee
 </div>
 </div>
 
-<div class="non-first-author" style="display:none">
-<ul>
-<li>Huang Y H, <strong>Liu C Y</strong>, Lin Y, et al. CoEdPilot: Interactively Recommending Project-Wise Code Edits[J]. Journal of Computer Science and Technology, 2025, 40(4): 980-992.</li>
-</ul>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISSTA'24</div><img src='images/ISSTA24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
