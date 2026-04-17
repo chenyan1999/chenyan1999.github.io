@@ -33,19 +33,37 @@ redirect_from:
 - *2024.12*: &nbsp; 🎉🎉 I passed the qualifying examination.
 - *2024.03*: &nbsp; 🎉🎉 Our paper *CoEdPilot: Recommending Code Edits with Learned Prior Edit Relevance, Project-wise Awareness, and Interactive Nature* has been accepted by ISSTA'24.
 
-# 📝 Publications 
+<style>
+#pub-switch { display:inline-flex; border-radius:999px; background:#e0e0e0; padding:3px; font-size:0.85em; user-select:none; }
+#pub-switch span { padding:4px 14px; border-radius:999px; cursor:pointer; font-weight:500; transition:background 0.2s, color 0.2s, box-shadow 0.2s; background:transparent; color:#888; }
+#pub-switch span.pub-active { background:#fff; color:#333; box-shadow:0 1px 3px rgba(0,0,0,0.15); }
+html[data-theme="dark"] #pub-switch { background:#3a3a3a; }
+html[data-theme="dark"] #pub-switch span { color:#aaa; }
+html[data-theme="dark"] #pub-switch span.pub-active { background:#555; color:#eee; box-shadow:0 1px 3px rgba(0,0,0,0.4); }
+</style>
+
+<div style="display:flex; align-items:center; justify-content:space-between; margin-top:1em;">
+  <h1 style="margin:0;">📝 Publications</h1>
+  <div id="pub-switch">
+    <span id="pub-opt-featured" class="pub-active" onclick="togglePubs(false)">Featured</span>
+    <span id="pub-opt-all" onclick="togglePubs(true)">All</span>
+  </div>
+</div>
 (<small><sup>#</sup> refers to equal contribution, <sup>*</sup> refers to corresponding author</small>)
 
-- Liu J, Lin Y, **Liu C**, Qi Y, Liu Y, Chang J, Zhang W, Huang L. IssueExec: A Test-Driven Approach for Localizing Software Engineering Issues[C]//Proceedings of the 2026 ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA). ACM, 2026.
-
-- Qi B, Lin Y, Weng X, Huang Y, **Liu C**, Sun H, Jin Z, Dong J S. Generating Project-Specific Test Cases with Requirement Validation Intention[C]//Proceedings of the 2026 ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA). ACM, 2026.
-
-- Qi B, Lin Y, Weng X, **Liu C**, Sun H, Fraser G, Dong J S. Generalizing Test Cases for Comprehensive Test Scenario Coverage[C]//FSE 2026-2026 ACM International Conference on the Foundations of Software Engineering. ACM, 2026.
+<div class="non-first-author" style="display:none">
+<ul>
+<li>Liu J, Lin Y, <strong>Liu C</strong>, Qi Y, et al. IssueExec: A Test-Driven Approach for Localizing Software Engineering Issues[C]//Proceedings of the 2026 ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA). ACM, 2026.</li>
+<li>Qi B, Lin Y, Weng X, Huang Y, <strong>Liu C</strong>, et al. Generating Project-Specific Test Cases with Requirement Validation Intention[C]//Proceedings of the 2026 ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA). ACM, 2026.
+<a href='https://arxiv.org/pdf/2507.20619'><i class="fa fa-file-pdf"></i>[PDF]</a></li>
+<li>Qi B, Lin Y, Weng X, <strong>Liu C</strong>, et al. Generalizing Test Cases for Comprehensive Test Scenario Coverage[C]//FSE 2026-2026 ACM International Conference on the Foundations of Software Engineering. ACM, 2026.</li>
+</ul>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">OOPSLA'26</div><img src='images/OOPSLA26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	**Liu C**, Lin Y<sup>*</sup>, Chang J, et al. EditFlow: Benchmarking and Optimizing Code Edit Recommendation Systems via Reconstruction of Developer Flows[C]
+-	**Liu C**, Lin Y<sup>*</sup>, Chang J, Liu J, et al. EditFlow: Benchmarking and Optimizing Code Edit Recommendation Systems via Reconstruction of Developer Flows[J]. Proc. ACM Program. Lang., 10, OOPSLA1, Article 141 (April 2026), 28 pages.
 <a href='https://sites.google.com/view/editflow'><i class="fa fa-home"></i>[Homepage]</a>
 <a href='https://arxiv.org/pdf/2602.21697'><i class="fa fa-file-pdf"></i>[PDF]</a>
 <a href='https://github.com/code-philia/EditFlow'><i class="fab fa-github"></i>[GitHub]</a> 
@@ -64,6 +82,12 @@ redirect_from:
 </div>
 </div>
 
+<div class="non-first-author" style="display:none">
+<ul>
+<li>Huang Y H, <strong>Liu C Y</strong>, Lin Y, et al. CoEdPilot: Interactively Recommending Project-Wise Code Edits[J]. Journal of Computer Science and Technology, 2025, 40(4): 980-992.</li>
+</ul>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISSTA'24</div><img src='images/ISSTA24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -76,14 +100,40 @@ SOFT International Symposium on Software Testing and Analysis. 2024: 466-478
 </div>
 </div>
 
--  Nie H, Wang W<sup>*</sup>, Dai R, **Liu C**, et al. Multi-Hop D2D Cluster Formation and Resource Allocation for Scalable Video Multicast[C]//ISPA 2024-2024 IEEE International Symposium on Parallel and Distributed Processing with Applications. IEEE, 2024.
-
--	Cai Y, Lin Y<sup>*</sup>, **Liu C**, et al. On-the-Fly Adapting Code Summarization on Trainable Cost-Effective Language Models[J]. Advances in Neural Information Processing Systems, 2023, 36.
+<div class="non-first-author" style="display:none">
+<ul>
+<li>Nie H, Wang W<sup>*</sup>, Dai R, <strong>Liu C</strong>, et al. Multi-Hop D2D Cluster Formation and Resource Allocation for Scalable Video Multicast[C]//ISPA 2024-2024 IEEE International Symposium on Parallel and Distributed Processing with Applications. IEEE, 2024.
+<a href='https://ieeexplore.ieee.org/document/10885132'><i class="fa fa-file-pdf"></i>[PDF]</a></li>
+<li>Cai Y, Lin Y<sup>*</sup>, <strong>Liu C</strong>, et al. On-the-Fly Adapting Code Summarization on Trainable Cost-Effective Language Models[J]. Advances in Neural Information Processing Systems, 2023, 36.
 <a href='https://sites.google.com/view/adacom23/home'><i class="fa fa-home"></i>[Homepage]</a>
-<a href='https://proceedings.neurips.cc/paper_files/paper/2023/file/b16e6de5fbbdcb2df237aa66b302bc17-Paper-Conference.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a>
+<a href='https://proceedings.neurips.cc/paper_files/paper/2023/file/b16e6de5fbbdcb2df237aa66b302bc17-Paper-Conference.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a></li>
+<li><strong>Liu C</strong>, Wang W<sup>*</sup>, Dai R, et al. A Real-Time Scalable Video Distribution Strategy Based on Dynamic Coalition and D2D Broadcast[C]//GLOBECOM 2022-2022 IEEE Global Communications Conference. IEEE, 2022: 19-24.
+<a href='https://ieeexplore.ieee.org/document/10001625'><i class="fa fa-file-pdf"></i>[PDF]</a></li>
+</ul>
+</div>
 
-- **Liu C**, Wang W<sup>*</sup>, Dai R, et al. A Real-Time Scalable Video Distribution Strategy Based on Dynamic Coalition and D2D Broadcast[C]//GLOBECOM 2022-2022 IEEE Global Communications Conference. IEEE, 2022: 19-24.
-<a href='https://ieeexplore.ieee.org/document/10001625'><i class="fa fa-file-pdf"></i>[PDF]</a>
+<script>
+function togglePubs(showAll) {
+  document.querySelectorAll('.non-first-author').forEach(function(el) {
+    el.style.display = showAll ? 'block' : 'none';
+  });
+  document.querySelectorAll('.paper-box-image').forEach(function(el) {
+    el.style.display = showAll ? 'none' : '';
+  });
+  document.querySelectorAll('.paper-box-text').forEach(function(el) {
+    el.style.maxWidth = showAll ? '100%' : '';
+    el.style.paddingLeft = showAll ? '0' : '';
+  });
+  document.querySelectorAll('.paper-box').forEach(function(el) {
+    el.style.padding = showAll ? '0' : '';
+    el.style.margin = showAll ? '0' : '';
+    el.style.borderBottom = showAll ? 'none' : '';
+    el.style.display = showAll ? 'block' : '';
+  });
+  document.getElementById('pub-opt-featured').classList.toggle('pub-active', !showAll);
+  document.getElementById('pub-opt-all').classList.toggle('pub-active', showAll);
+}
+</script>
 
 # 📖 Educations
 - *2023.08 - Present*, Ph.D. in Computer Science, National University of Singapore (NUS).
