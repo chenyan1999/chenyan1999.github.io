@@ -77,7 +77,7 @@ html[data-theme="dark"] #pub-switch span.pub-active { background:#555; color:#ee
 
 -	**Liu C**, Lin Y<sup>*</sup>, Huang Y, Chang J, Qi B, Jiang B, Huang Z, Dong JS. Learning Project-wise Subsequent Code Edits via Interleaving Neural-based Induction and Tool-based Deduction[C]//2025 40th IEEE/ACM International Conference on Automated Software Engineering (ASE). IEEE, 2025: 1377-1389.
 <a href='https://sites.google.com/view/code-trace/homepage'><i class="fa fa-home"></i>[Homepage]</a>
-<a href='file/TRACE.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a>
+<a href='https://arxiv.org/pdf/2604.12220'><i class="fa fa-file-pdf"></i>[PDF]</a>
 <a href='https://github.com/code-philia/TRACE'><i class="fab fa-github"></i>[GitHub]</a> 
 
 </div>
