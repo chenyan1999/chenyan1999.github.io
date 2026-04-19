@@ -54,10 +54,10 @@ html[data-theme="dark"] #pub-switch span.pub-active { background:#555; color:#ee
 
 <div class="non-first-author" style="display:none">
 <ul>
-<li>Liu J, Lin Y, <strong>Liu C</strong>, Qian Y, Liu Y, Chang J, Zhang W, Huang L. IssueExec: A Test-Driven Approach for Localizing Software Engineering Issues[C]//Proceedings of the 2026 ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA). ACM, 2026.</li>
-<li>Qi B, Lin Y, Weng X, Huang Y, <strong>Liu C</strong>, Sun H, Jin Z, Dong JS. Generating Project-Specific Test Cases with Requirement Validation Intention[C]//Proceedings of the 2026 ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA). ACM, 2026.
+<li>Liu J, Lin Y<sup>*</sup>, <strong>Liu C</strong>, Qian Y, Liu Y, Chang J, Zhang W, Huang L. IssueExec: A Test-Driven Approach for Localizing Software Engineering Issues[C]//Proceedings of the 2026 ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA). ACM, 2026.</li>
+<li>Qi B, Lin Y<sup>*</sup>, Weng X, Huang Y, <strong>Liu C</strong>, Sun H, Jin Z, Dong JS. Generating Project-Specific Test Cases with Requirement Validation Intention[C]//Proceedings of the 2026 ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA). ACM, 2026.
 <a href='https://arxiv.org/pdf/2507.20619'><i class="fa fa-file-pdf"></i>[PDF]</a></li>
-<li>Qi B, Lin Y, Weng X, <strong>Liu C</strong>, Sun H, Fraser G, Dong JS. Generalizing Test Cases for Comprehensive Test Scenario Coverage[C]//FSE 2026-2026 ACM International Conference on the Foundations of Software Engineering. ACM, 2026.</li>
+<li>Qi B, Lin Y<sup>*</sup>, Weng X, <strong>Liu C</strong>, Sun H, Fraser G, Dong JS. Generalizing Test Cases for Comprehensive Test Scenario Coverage[C]//FSE 2026-2026 ACM International Conference on the Foundations of Software Engineering. ACM, 2026.</li>
 </ul>
 </div>
 
