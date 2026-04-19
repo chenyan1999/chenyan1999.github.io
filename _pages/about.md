@@ -54,17 +54,17 @@ html[data-theme="dark"] #pub-switch span.pub-active { background:#555; color:#ee
 
 <div class="non-first-author" style="display:none">
 <ul>
-<li>Liu J, Lin Y, <strong>Liu C</strong>, Qi Y, et al. IssueExec: A Test-Driven Approach for Localizing Software Engineering Issues[C]//Proceedings of the 2026 ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA). ACM, 2026.</li>
-<li>Qi B, Lin Y, Weng X, Huang Y, <strong>Liu C</strong>, et al. Generating Project-Specific Test Cases with Requirement Validation Intention[C]//Proceedings of the 2026 ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA). ACM, 2026.
+<li>Liu J, Lin Y, <strong>Liu C</strong>, Qian Y, Liu Y, Chang J, Zhang W, Huang L. IssueExec: A Test-Driven Approach for Localizing Software Engineering Issues[C]//Proceedings of the 2026 ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA). ACM, 2026.</li>
+<li>Qi B, Lin Y, Weng X, Huang Y, <strong>Liu C</strong>, Sun H, Jin Z, Dong JS. Generating Project-Specific Test Cases with Requirement Validation Intention[C]//Proceedings of the 2026 ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA). ACM, 2026.
 <a href='https://arxiv.org/pdf/2507.20619'><i class="fa fa-file-pdf"></i>[PDF]</a></li>
-<li>Qi B, Lin Y, Weng X, <strong>Liu C</strong>, et al. Generalizing Test Cases for Comprehensive Test Scenario Coverage[C]//FSE 2026-2026 ACM International Conference on the Foundations of Software Engineering. ACM, 2026.</li>
+<li>Qi B, Lin Y, Weng X, <strong>Liu C</strong>, Sun H, Fraser G, Dong JS. Generalizing Test Cases for Comprehensive Test Scenario Coverage[C]//FSE 2026-2026 ACM International Conference on the Foundations of Software Engineering. ACM, 2026.</li>
 </ul>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">OOPSLA'26</div><img src='images/OOPSLA26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	**Liu C**, Lin Y<sup>*</sup>, Chang J, Liu J, et al. EditFlow: Benchmarking and Optimizing Code Edit Recommendation Systems via Reconstruction of Developer Flows[J]. Proc. ACM Program. Lang., 10, OOPSLA1, Article 141 (April 2026), 28 pages.
+-	**Liu C**, Lin Y<sup>*</sup>, Chang J, Liu J, Qi B, Jiang B, Huang Z, Dong JS. EditFlow: Benchmarking and Optimizing Code Edit Recommendation Systems via Reconstruction of Developer Flows[J]. Proc. ACM Program. Lang., 10, OOPSLA1, Article 141 (April 2026), 28 pages.
 <a href='https://sites.google.com/view/editflow'><i class="fa fa-home"></i>[Homepage]</a>
 <a href='https://arxiv.org/pdf/2602.21697'><i class="fa fa-file-pdf"></i>[PDF]</a>
 <a href='https://github.com/code-philia/EditFlow'><i class="fab fa-github"></i>[GitHub]</a> 
@@ -75,7 +75,7 @@ html[data-theme="dark"] #pub-switch span.pub-active { background:#555; color:#ee
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASE'25</div><img src='images/ASE25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	**Liu C**, Lin Y<sup>*</sup>, Huang Y, et al. Learning Project-wise Subsequent Code Edits via Interleaving Neural-based Induction and Tool-based Deduction[C]//2025 40th IEEE/ACM International Conference on Automated Software Engineering (ASE). IEEE, 2025: 1377-1389.
+-	**Liu C**, Lin Y<sup>*</sup>, Huang Y, Chang J, Qi B, Jiang B, Huang Z, Dong JS. Learning Project-wise Subsequent Code Edits via Interleaving Neural-based Induction and Tool-based Deduction[C]//2025 40th IEEE/ACM International Conference on Automated Software Engineering (ASE). IEEE, 2025: 1377-1389.
 <a href='https://sites.google.com/view/code-trace/homepage'><i class="fa fa-home"></i>[Homepage]</a>
 <a href='file/TRACE.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a>
 <a href='https://github.com/code-philia/TRACE'><i class="fab fa-github"></i>[GitHub]</a> 
@@ -86,7 +86,7 @@ html[data-theme="dark"] #pub-switch span.pub-active { background:#555; color:#ee
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISSTA'24</div><img src='images/ISSTA24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	**Liu C**<sup>#</sup>, Cai Y<sup>#</sup>, Lin Y<sup>*</sup>, Huang Y, et al. CoEdPilot: Recommending Code Edits with Learned Prior Edit Relevance, Project-wise Awareness, and Interactive Nature[C]//Proceedings of the 33rd ACM SIG-
+-	**Liu C**<sup>#</sup>, Cai Y<sup>#</sup>, Lin Y<sup>*</sup>, Huang Y, Pei Y, Jiang B, Yang P, Dong JS, Mei H. CoEdPilot: Recommending Code Edits with Learned Prior Edit Relevance, Project-wise Awareness, and Interactive Nature[C]//Proceedings of the 33rd ACM SIG-
 SOFT International Symposium on Software Testing and Analysis. 2024: 466-478
 <a href='https://sites.google.com/view/coedpilot/home'><i class="fa fa-home"></i>[Homepage]</a>
 <a href='https://arxiv.org/pdf/2408.01733'><i class="fa fa-file-pdf"></i>[PDF]</a>
@@ -97,12 +97,12 @@ SOFT International Symposium on Software Testing and Analysis. 2024: 466-478
 
 <div class="non-first-author" style="display:none">
 <ul>
-<li>Nie H, Wang W<sup>*</sup>, Dai R, <strong>Liu C</strong>, et al. Multi-Hop D2D Cluster Formation and Resource Allocation for Scalable Video Multicast[C]//ISPA 2024-2024 IEEE International Symposium on Parallel and Distributed Processing with Applications. IEEE, 2024.
+<li>Nie H, Wang W<sup>*</sup>, Dai R, <strong>Liu C</strong>, Wang Z, Xu P. Multi-Hop D2D Cluster Formation and Resource Allocation for Scalable Video Multicast[C]//ISPA 2024-2024 IEEE International Symposium on Parallel and Distributed Processing with Applications. IEEE, 2024.
 <a href='https://ieeexplore.ieee.org/document/10885132'><i class="fa fa-file-pdf"></i>[PDF]</a></li>
-<li>Cai Y, Lin Y<sup>*</sup>, <strong>Liu C</strong>, et al. On-the-Fly Adapting Code Summarization on Trainable Cost-Effective Language Models[J]. Advances in Neural Information Processing Systems, 2023, 36.
+<li>Cai Y, Lin Y<sup>*</sup>, <strong>Liu C</strong>, Wu J, Zhang Y, Liu Y, Gong Y, Dong JS. On-the-Fly Adapting Code Summarization on Trainable Cost-Effective Language Models[J]. Advances in Neural Information Processing Systems, 2023, 36.
 <a href='https://sites.google.com/view/adacom23/home'><i class="fa fa-home"></i>[Homepage]</a>
 <a href='https://proceedings.neurips.cc/paper_files/paper/2023/file/b16e6de5fbbdcb2df237aa66b302bc17-Paper-Conference.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a></li>
-<li><strong>Liu C</strong>, Wang W<sup>*</sup>, Dai R, et al. A Real-Time Scalable Video Distribution Strategy Based on Dynamic Coalition and D2D Broadcast[C]//GLOBECOM 2022-2022 IEEE Global Communications Conference. IEEE, 2022: 19-24.
+<li><strong>Liu C</strong>, Wang W<sup>*</sup>, Dai R, Nie H, Xu P. A Real-Time Scalable Video Distribution Strategy Based on Dynamic Coalition and D2D Broadcast[C]//GLOBECOM 2022-2022 IEEE Global Communications Conference. IEEE, 2022: 19-24.
 <a href='https://ieeexplore.ieee.org/document/10001625'><i class="fa fa-file-pdf"></i>[PDF]</a></li>
 </ul>
 </div>
