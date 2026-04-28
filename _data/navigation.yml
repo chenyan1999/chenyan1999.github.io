@@ -1,28 +1,37 @@
 # main links links
 main:
   - title: "About Me"
+    title_zh: "关于我"
     url: "/#about-me"
 
   - title: "News"
+    title_zh: "动态"
     url: "/#-news"
 
   - title: "Publications"
+    title_zh: "发表论文"
     url: "/#-publications"
 
   - title: "Honors and Awards"
+    title_zh: "荣誉"
     url: "/#-honors-and-awards"
 
   - title: "Educations"
+    title_zh: "教育经历"
     url: "/#-educations"
 
   # - title: "Internships"
+  #   title_zh: "实习经历"
   #   url: "/#-internships"
 
   - title: "Teaching"
+    title_zh: "教学经历"
     url: "/#-teaching"
 
   - title: "Patent"
+    title_zh: "专利"
     url: "/#-patent"
 
   - title: "Invited Talks"
+    title_zh: "受邀演讲"
     url: "/#-invited-talks"

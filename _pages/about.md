@@ -17,21 +17,56 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 👋 About me
+<div class="lang-en" markdown="1">
+
+# 👋 About me {#about-me-en}
 * Hello, I'm Chenyan!
 * I am a 3rd year PhD candidate at the National University of Singapore (NUS), Singapore. 
 * I am supervised by [Dr. ZhiYong HUANG](https://www.comp.nus.edu.sg/~huangzy/) and [Dr. Jin Song DONG](https://www.comp.nus.edu.sg/~dongjs/) at NUS [PLSE Lab](https://nus-plse.github.io/). I also collaborate closely with [Dr. Yun LIN](http://linyun.info/).
 * My research interest is machine learning, specifically AI for software engineering.
 
+</div>
+<div class="lang-zh" markdown="1">
+
+# 👋 关于我 {#about-me-zh}
+* 你好，我是晨彦！
+* 我是新加坡国立大学（NUS）计算机科学系三年级博士生。
+* 我的导师是 NUS [PLSE 实验室](https://nus-plse.github.io/)的[黄志勇博士](https://www.comp.nus.edu.sg/~huangzy/)和[董劲松博士](https://www.comp.nus.edu.sg/~dongjs/)，同时与[林云博士](http://linyun.info/)保持密切合作。
+* 我的研究方向为机器学习，专注于 AI 赋能软件工程（AI4SE）。
+
+</div>
+
+<div class="lang-en">
 <div class="internship-notice" style="background-color: #f0f7ff; border: 1.5px solid #4a90d9; border-radius: 8px; padding: 10px 16px; margin: 12px 0;">
   🔍 I am looking for <strong>internship opportunities</strong> in AI for coding starting from <strong>early 2027</strong> (outside mainland China). Feel free to <a href="mailto:chenyan@u.nus.edu">reach out</a>!
 </div>
+</div>
+<div class="lang-zh">
+<div class="internship-notice" style="background-color: #f0f7ff; border: 1.5px solid #4a90d9; border-radius: 8px; padding: 10px 16px; margin: 12px 0;">
+  🔍 我正在寻找从 <strong>2027 年初</strong>开始的 AI 编程方向<strong>实习机会</strong>（中国大陆以外地区）。欢迎<a href="mailto:chenyan@u.nus.edu">联系我</a>！
+</div>
+</div>
 
-# 🔥 News
+<span class='anchor' id='-news'></span>
+
+<div class="lang-en" markdown="1">
+
+# 🔥 News {#news-en}
 - *2026.02*: &nbsp; 🎉🎉 Our paper *EditFlow: Benchmarking and Optimizing Code Edit Recommendation Systems via Reconstruction of Developer Flows* has been accepted by OOPSLA'26.
 - *2025.09*: &nbsp; 🎉🎉 Our paper *Learning Project-wise Subsequent Code Edits via Interleaving Neural-based Induction and Tool-based Deduction* has been accepted by ASE'25.
 - *2024.12*: &nbsp; 🎉🎉 I passed the qualifying examination.
 - *2024.03*: &nbsp; 🎉🎉 Our paper *CoEdPilot: Recommending Code Edits with Learned Prior Edit Relevance, Project-wise Awareness, and Interactive Nature* has been accepted by ISSTA'24.
+
+</div>
+<div class="lang-zh" markdown="1">
+
+# 🔥 动态 {#news-zh}
+- *2026.02*: &nbsp; 🎉🎉 我们的论文 *EditFlow: Benchmarking and Optimizing Code Edit Recommendation Systems via Reconstruction of Developer Flows* 被 OOPSLA'26 接收。
+- *2025.09*: &nbsp; 🎉🎉 我们的论文 *Learning Project-wise Subsequent Code Edits via Interleaving Neural-based Induction and Tool-based Deduction* 被 ASE'25 接收。
+- *2024.12*: &nbsp; 🎉🎉 我通过了资格考试。
+- *2024.03*: &nbsp; 🎉🎉 我们的论文 *CoEdPilot: Recommending Code Edits with Learned Prior Edit Relevance, Project-wise Awareness, and Interactive Nature* 被 ISSTA'24 接收。
+
+</div>
 
 <style>
 #pub-switch { display:inline-flex; border-radius:999px; background:#e0e0e0; padding:3px; font-size:0.85em; user-select:none; }
@@ -44,13 +79,13 @@ html[data-theme="dark"] #pub-switch span.pub-active { background:#555; color:#ee
 
 <span class='anchor' id='-publications'></span>
 <div style="display:flex; align-items:center; justify-content:space-between; margin-top:1em;">
-  <h1 style="margin:0;">📝 Publications</h1>
+  <h1 style="margin:0;">📝 <span class="lang-en">Publications</span><span class="lang-zh">发表论文</span></h1>
   <div id="pub-switch">
-    <span id="pub-opt-featured" class="pub-active" onclick="togglePubs(false)">Featured</span>
-    <span id="pub-opt-all" onclick="togglePubs(true)">All</span>
+    <span id="pub-opt-featured" class="pub-active" onclick="togglePubs(false)"><span class="lang-en">Featured</span><span class="lang-zh">精选</span></span>
+    <span id="pub-opt-all" onclick="togglePubs(true)"><span class="lang-en">All</span><span class="lang-zh">全部</span></span>
   </div>
 </div>
-(<small><sup>#</sup> refers to equal contribution, <sup>*</sup> refers to corresponding author</small>)
+(<small><sup>#</sup> <span class="lang-en">refers to equal contribution</span><span class="lang-zh">表示同等贡献</span>, <sup>*</sup> <span class="lang-en">refers to corresponding author</span><span class="lang-zh">表示通讯作者</span></small>)
 
 <div class="non-first-author" style="display:none">
 <ul>
@@ -131,29 +166,110 @@ function togglePubs(showAll) {
 }
 </script>
 
-# 📖 Educations
+<span class='anchor' id='-educations'></span>
+
+<div class="lang-en" markdown="1">
+
+# 📖 Educations {#educations-en}
 - *2023.08 - Present*, Ph.D. in Computer Science, National University of Singapore (NUS).
 - *2021.08 - 2023.03*, M.S. in Computer Science, National University of Singapore (NUS).
 - *2017.09 - 2021.06*, B.S. in Computer Science, Huazhong University of Science and Technology (HUST).
 
-# 👨‍💻 Internships
+</div>
+<div class="lang-zh" markdown="1">
+
+# 📖 教育经历 {#educations-zh}
+- *2023.08 - 至今*，博士，计算机科学，新加坡国立大学（NUS）。
+- *2021.08 - 2023.03*，硕士，计算机科学，新加坡国立大学（NUS）。
+- *2017.09 - 2021.06*，学士，计算机科学，华中科技大学（HUST）。
+
+</div>
+
+<span class='anchor' id='-internships'></span>
+
+<div class="lang-en" markdown="1">
+
+# 👨‍💻 Internships {#internships-en}
 - *2025.01 - 2025.08*, Trae, ByteDance, Shenzhen, China.
 
-# 🎖 Honors and Awards
+</div>
+<div class="lang-zh" markdown="1">
+
+# 👨‍💻 实习经历 {#internships-zh}
+- *2025.01 - 2025.08*，Trae，字节跳动，中国深圳。
+
+</div>
+
+<span class='anchor' id='-honors-and-awards'></span>
+
+<div class="lang-en" markdown="1">
+
+# 🎖 Honors and Awards {#honors-en}
 - *2025.12* Research Achievement Award, NUS.
-- *2024.11* 3rd/74 in Prototype System Competition for Software Research Achievements, China Computer Federation (CCF).
+- *2024.11* Second Prize, 3rd/74 in Prototype System Competition for Software Research Achievements, China Computer Federation (CCF).
 - *2024.08* Research Achievement Award, NUS.
 - *2021.06* Outstanding Undergraduate Student, HUST.
 
-# 👨‍🏫 Teaching
+</div>
+<div class="lang-zh" markdown="1">
+
+# 🎖 荣誉 {#honors-zh}
+- *2025.12* NUS 科研成就奖。
+- *2024.11* 中国计算机学会（CCF）软件工程研究成果原型系统大赛二等奖（74 支参赛队伍第 3 名）。
+- *2024.08* NUS 科研成就奖。
+- *2021.06* 华中科技大学优秀本科毕业生。
+
+</div>
+
+<span class='anchor' id='-teaching'></span>
+
+<div class="lang-en" markdown="1">
+
+# 👨‍🏫 Teaching {#teaching-en}
 - *2026 Spring*, Teaching Assistant, CS4211 Formal Methods for Software Engineering, NUS.
 - *2024 Fall*, Teaching Assistant, CS5228 Knowledge Discovery and Data Mining, NUS.
 - *2024 Spring*, Teaching Assistant, CS4248 Natural Language Processing, NUS.
 
-# 🏷 Patent
+</div>
+<div class="lang-zh" markdown="1">
+
+# 👨‍🏫 教学经历 {#teaching-zh}
+- *2026 春*，助教，CS4211 软件工程形式化方法，NUS。
+- *2024 秋*，助教，CS5228 知识发现与数据挖掘，NUS。
+- *2024 春*，助教，CS4248 自然语言处理，NUS。
+
+</div>
+
+<span class='anchor' id='-patent'></span>
+
+<div class="lang-en" markdown="1">
+
+# 🏷 Patent {#patent-en}
 - *2025.08* Method, System, Apparatus, and Computer-Readable Storage Medium for Constructing Code Editing Datasets. China Invention Patent, Publication No. CN121070316A
 - *2025.08* Method, System, Apparatus, and Computer-Readable Storage Medium for Determining Code Editing Recommendations. China Invention Patent, Publication No. CN121029146A.
 - *2024.05* Method, System, Apparatus, and Computer-Readable Storage Medium for Code Editing. China Invention Patent, Publication No. CN119088381A.
 
-# 💬 Invited Talks
+</div>
+<div class="lang-zh" markdown="1">
+
+# 🏷 专利 {#patent-zh}
+- *2025.08* 代码编辑数据集的构建方法、 装置、 设备、 介质、 产品。中国发明专利，公告号 CN121070316A。
+- *2025.08* 代码编辑推荐确定方法、 装置、 电子设备以及存储介质。中国发明专利，公告号 CN121029146A。
+- *2024.05* 用于代码编辑的方法、 装置、 设备和存储介质。中国发明专利，公告号 CN119088381A。
+
+</div>
+
+<span class='anchor' id='-invited-talks'></span>
+
+<div class="lang-en" markdown="1">
+
+# 💬 Invited Talks {#talks-en}
 - *2024.12*, Workshop on LLM-based Code Agent, International Conference on Distributed Artificial Intelligence, Singapore.
+
+</div>
+<div class="lang-zh" markdown="1">
+
+# 💬 受邀演讲 {#talks-zh}
+- *2024.12*，基于大模型的代码智能体研讨会，分布式人工智能国际会议，新加坡。
+
+</div>

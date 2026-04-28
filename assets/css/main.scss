@@ -117,14 +117,13 @@ h1:before, .anchor:before {
   position: relative;
 }
 
-// Shrink the nav to leave room for the toggle button on the right
+// Shrink the nav to leave room for the two toggle buttons on the right
 .greedy-nav {
-  margin-right: 2.5rem;
+  margin-right: 5rem;
 }
 
-#theme-toggle {
+#theme-toggle, #lang-toggle {
   position: absolute;
-  right: 0;
   top: 50%;
   transform: translateY(-50%);
   background: none;
@@ -140,6 +139,18 @@ h1:before, .anchor:before {
 
   &:hover { opacity: 1; }
 }
+
+#theme-toggle { right: 0; }
+#lang-toggle {
+  right: 2.2rem;
+  font-size: 0.85em;
+  font-weight: 600;
+}
+
+/* Language toggle */
+.lang-zh { display: none; }
+html[data-lang="zh"] .lang-zh { display: revert; }
+html[data-lang="zh"] .lang-en { display: none; }
 
 /* ==========================================================================
    DARK MODE
@@ -164,7 +175,7 @@ html[data-theme="dark"] {
     a { color: #d0d0d0; }
   }
 
-  #theme-toggle { color: #d0d0d0; }
+  #theme-toggle, #lang-toggle { color: #d0d0d0; }
 
   .sidebar {
     .author__name { color: #e0e0e0; }

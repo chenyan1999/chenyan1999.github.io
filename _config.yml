@@ -8,6 +8,7 @@
 # Site Settings
 title                    : "Chenyan Liu"
 description              : "Student at NUS"
+cn_description           : "新加坡国立大学博士生"
 repository               : "chenyan1999/chenyan1999.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -27,6 +28,7 @@ author:
   avatar           : "images/photo.jpg"
   bio              : ""
   location         : "Singapore"
+  cn_location      : "新加坡"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=RRnS4icAAAAJ"

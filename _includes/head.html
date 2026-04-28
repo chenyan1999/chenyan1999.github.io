@@ -16,6 +16,11 @@
     var theme = saved || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
     document.documentElement.setAttribute('data-theme', theme);
   })();
+  // Apply language before page renders to prevent flash of wrong language
+  (function() {
+    var lang = localStorage.getItem('lang') || 'en';
+    document.documentElement.setAttribute('data-lang', lang);
+  })();
 </script>
 
 <!-- Favicon -->
