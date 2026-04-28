@@ -57,7 +57,8 @@ html[data-theme="dark"] #pub-switch span.pub-active { background:#555; color:#ee
 <li>Liu J, Lin Y<sup>*</sup>, <strong>Liu C</strong>, Qian Y, Liu Y, Chang J, Zhang W, Huang L. IssueExec: A Test-Driven Approach for Localizing Software Engineering Issues[C]//Proceedings of the 2026 ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA). ACM, 2026.</li>
 <li>Qi B, Lin Y<sup>*</sup>, Weng X, Huang Y, <strong>Liu C</strong>, Sun H, Jin Z, Dong JS. Generating Project-Specific Test Cases with Requirement Validation Intention[C]//Proceedings of the 2026 ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA). ACM, 2026.
 <a href='https://arxiv.org/pdf/2507.20619'><i class="fa fa-file-pdf"></i>[PDF]</a></li>
-<li>Qi B, Lin Y<sup>*</sup>, Weng X, <strong>Liu C</strong>, Sun H, Fraser G, Dong JS. Generalizing Test Cases for Comprehensive Test Scenario Coverage[C]//FSE 2026-2026 ACM International Conference on the Foundations of Software Engineering. ACM, 2026.</li>
+<li>Qi B, Lin Y<sup>*</sup>, Weng X, <strong>Liu C</strong>, Sun H, Fraser G, Dong JS. Generalizing Test Cases for Comprehensive Test Scenario Coverage[C]//FSE 2026-2026 ACM International Conference on the Foundations of Software Engineering. ACM, 2026.
+<a href='https://arxiv.org/pdf/2604.21771'><i class="fa fa-file-pdf"></i>[PDF]</a></li>
 </ul>
 </div>
 
@@ -145,6 +146,7 @@ function togglePubs(showAll) {
 - *2021.06* Outstanding Undergraduate Student, HUST.
 
 # 👨‍🏫 Teaching
+- *2026 Spring*, Teaching Assistant, CS4211 Formal Methods for Software Engineering, NUS.
 - *2024 Fall*, Teaching Assistant, CS5228 Knowledge Discovery and Data Mining, NUS.
 - *2024 Spring*, Teaching Assistant, CS4248 Natural Language Processing, NUS.
 
