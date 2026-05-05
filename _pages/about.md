@@ -43,9 +43,9 @@ html[data-theme="dark"] #pub-switch span.pub-active { background:#555; color:#ee
 </style>
 
 <span class='anchor' id='-publications'></span>
-<div style="display:flex; align-items:center; justify-content:space-between; margin-top:1em;">
-  <h1 style="margin:0;">📝 Publications</h1>
-  <div id="pub-switch">
+<div style="position:relative;">
+  <h1>📝 Publications</h1>
+  <div id="pub-switch" style="position:absolute; right:0; bottom:0.7em;">
     <span id="pub-opt-featured" class="pub-active" onclick="togglePubs(false)">Featured</span>
     <span id="pub-opt-all" onclick="togglePubs(true)">All</span>
   </div>
